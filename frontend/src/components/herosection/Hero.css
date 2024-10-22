@@ -1,9 +1,10 @@
 .hero-section{
     border: 1px solid black;
-    height: 100vh; /*taking the entire height row of the screen*/
+    height: 95vh; /*taking the entire height row of the screen*/
     max-height: 1100px; /*that the hero section height will not pass 1100px despite the screen*/
     position: relative;
     overflow: hidden;
+    border-radius: 0 0 5% 5%;
 } 
 
 .hero-container{
